@@ -2,7 +2,7 @@
 
 This is a basic counter web app built with HTML, CSS, and JavaScript.
 
-It was one of my first projects while learning web development. I followed a tutorial as guidance, but figured out several parts myself — including organizing the project files and making the buttons interact with the counter using the DOM.
+It was one of my first projects while learning web development. I followed a tutorial as guidance, but figured out several parts myself, including organizing the project files and making the buttons interact with the counter using the DOM.
 
 ## 🔧 Features
 
